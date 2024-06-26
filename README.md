@@ -13,3 +13,5 @@ dependency process to capture the syntactic of words. Each Biplet pair
 undergoes a direct comparison within the given pair segments. In addition,
 we use BiLSTM augmented with multi-head attention to emphasize critical
 words more. 
+
+![Architectur RTE](images/Arsitekturnew.png)
