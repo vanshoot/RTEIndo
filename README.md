@@ -15,4 +15,6 @@ undergoes a direct comparison within the given pair segments. In addition,
 we use BiLSTM augmented with multi-head attention to emphasize critical
 words more. 
 
-![Architectur RTE](image/Arsitekturnew.png)
+Experiment using [SNLI Indo Dataset](https://doi.org/10.17632/k4tjhzs2gd.1)
+
+![Architecture RTE](image/Arsitekturnew.png)
