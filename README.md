@@ -1,3 +1,4 @@
+# Recognizing Textual Entailment in Indonesian Using Individual Biplet Head-Dependency and Multi-Head Attention Mechanisms
 Recognizing Textual Entailment (RTE) has emerged as an essential task
 within text understanding systems to determine the inferential relationships
 between sentences. Recognition of textual inferences has been extended to
