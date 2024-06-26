@@ -14,4 +14,4 @@ undergoes a direct comparison within the given pair segments. In addition,
 we use BiLSTM augmented with multi-head attention to emphasize critical
 words more. 
 
-![Architectur RTE](images/Arsitekturnew.png)
+![Architectur RTE](image/Arsitekturnew.png)
